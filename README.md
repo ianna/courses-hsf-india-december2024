@@ -3,7 +3,7 @@
 Click on this link:
 
 <p align="center">
-  <a href="https://ianna.github.io/courses-hsf-india-december2024/content/index.html?path=Elephants.ipynb">
+  <a href="https://github.com/ianna/courses-hsf-india-december2024/blob/main/content/Elephants.ipynb">
     <img src="https://jupyterlite.readthedocs.io/en/latest/_static/badge.svg" alt="Launch JupyterLite" height="40">
   </a>
 </p>
