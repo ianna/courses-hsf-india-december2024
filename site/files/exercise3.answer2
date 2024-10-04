@@ -1,0 +1,2 @@
+population_df['Population (2001)'] = population_df['Population (2011)'] / \
+    (1 + population_df['Population Growth % (2001-2012)'] / 100)
